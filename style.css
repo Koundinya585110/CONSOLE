@@ -1,5 +1,13 @@
 /*Console*/
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap');
+*{
+  margin:0;
+  padding:0;
+}
 body{
-background-color: black;
-font-color:white;  
+  background-color: black;
+  color: white;
+}
+::selection{
+color:blue;
 }
